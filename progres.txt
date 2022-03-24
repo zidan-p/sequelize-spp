@@ -1,0 +1,4 @@
+== proges untuk membuat SEQUELIZE untuk pembayaran spp ==
+1. membuat model
+2. melakukan migrasi
+3. membuat route <- dalam proses
